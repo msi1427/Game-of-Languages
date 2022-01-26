@@ -1,0 +1,4 @@
+| Course Name                      | Offered By         | Instructors            | Course URLs                                                  | Personal Coverage | My Resources                                                 |
+| -------------------------------- | ------------------ | ---------------------- | ------------------------------------------------------------ | ----------------- | ------------------------------------------------------------ |
+| Bayyinah Dream Intensive Program | Bayyinah Institute | Ustadh Nouman Ali Khan | **[[YouTube Playlist](https://www.youtube.com/playlist?list=PLutdSTmJ7bAKZdXPAjG3-T7OuByMRYa6z)] [[Course Website](https://www.dreamworldwide.net/study-resource)]** | Day 3             | [**[Notion](https://branched-cacao-bbe.notion.site/Arabic-ff3de9c2eb5741c1a147d85d0b052afd)**] [**[GDrive](https://drive.google.com/drive/folders/1RSlVPh1TI4k9pjTQKxRmsXqTZxUy-AsL?usp=sharing)**] |
+
