@@ -9,6 +9,6 @@
 
 # Tools
 
-GloVe: https://nlp.stanford.edu/projects/glove/ <br/>
+GloVe: https://nlp.stanford.edu/projects/glove/ <br/>Word2Vec: https://aegis4048.github.io/demystifying_neural_network_in_skip_gram_language_modeling <br/>
 
 # Others
